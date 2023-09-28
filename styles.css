@@ -1,0 +1,34 @@
+* {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+ul, ol {
+    font-size: small;
+}
+
+h2 {
+    color: darkblue;
+}
+
+.description {
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.centered {
+    text-align: center;
+}
+
+.no-bullets {
+    list-style: none;
+    padding: 0;
+}
+
+.large-list {
+    font-size: larger;
+}

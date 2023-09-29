@@ -32,3 +32,13 @@ h2 {
 .large-list {
     font-size: larger;
 }
+
+.main-list-item {
+    width: 100px;
+    padding: 8px;
+    margin: 5px;
+    border: #393f4d 2px solid;
+    display: inline-block;
+    background-color: #bccbde;
+    color: #333333;
+}
